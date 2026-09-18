@@ -46,7 +46,8 @@ this document does not claim approval by RuneLite or Jagex.
 
 ## Manual validation
 
-The author reported that the original two-tile version works in-game. Automated
-tests cover configurable boundaries and menu handling. Before submitting, verify
-the configurable setting in-game using the checklist in README.md; this has not
-been independently verified by an automated game session.
+The author reported that both the original two-tile version and the configurable
+distance setting work in-game, including switching beyond a selected five-tile
+distance. Automated tests cover configurable boundaries and menu handling.
+The broader manual checklist in README.md is available for regression testing;
+there has been no independent automated game session.
